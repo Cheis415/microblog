@@ -1,0 +1,80 @@
+html {
+  background-color: #EFEFEF;
+}
+
+.App {
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+  background-color: #EFEFEF;
+  background-size: cover;
+}
+.blog-cards {
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 5px 5px 5px 0px;
+  justify-content: space-between;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  
+}
+a {
+  color: #EFEFEF;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.right {
+    float: right;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.h1 {
+    padding: 3%;
+    text-align: center;
+    font-size: 10vh;
+}
+.pad {
+    margin-top: 5%;
+    padding: 1%;
+    color: #EBE8E2;
+    cursor: pointer;
+}
+
+.form-pad {
+    padding: 4%;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

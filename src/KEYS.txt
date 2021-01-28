@@ -1,0 +1,178 @@
+KEEEYEYYYY CLEAR
+KEEEYEYYYY PRINT
+KEEEYEYYYY check4 <= prelim q's, box 2 date Yes box
+KEEEYEYYYY undefined_200 <= prelim q's, box 2 date No box
+KEEEYEYYYY ss <= prelim q's, box 2 date
+KEEEYEYYYY check3 <= prelim q's, box 3 yes 
+KEEEYEYYYY check2 <= prelim q's, box 3 no
+KEEEYEYYYY check1 <= part 1 lang box 5a yes
+KEEEYEYYYY Check Box 5a <= part 1 lang box 5a no
+KEEEYEYYYY language
+KEEEYEYYYY case_attorney
+KEEEYEYYYY attorney_phone
+KEEEYEYYYY attorney_address
+KEEEYEYYYY attorney_city
+KEEEYEYYYY attorney_state
+KEEEYEYYYY attorney_zip
+KEEEYEYYYY client_first_name
+KEEEYEYYYY client_last_name
+KEEEYEYYYY client_phone
+KEEEYEYYYY Text7 <= part 2 your info other phone number
+KEEEYEYYYY Text6 <= part 2 your info other phone number area code
+KEEEYEYYYY client_birthday
+KEEEYEYYYY client_address
+KEEEYEYYYY client_city
+KEEEYEYYYY client_state
+KEEEYEYYYY client_zipcode
+KEEEYEYYYY defendant_company_and_individual_claim <=PART3 box 13 emp name
+KEEEYEYYYY workplace_name_claim <=PART3 box 13 emp name
+KEEEYEYYYY 14  EMPLOYERS VEHICLE LICENSE PLATE
+KEEEYEYYYY 15 EMPLOYER PHONE
+KEEEYEYYYY Text8 <=PART3 box 15 emp phone area code 
+KEEEYEYYYY defendant_company_address
+KEEEYEYYYY workplace_address
+KEEEYEYYYY defendant_company_city
+KEEEYEYYYY defendant_company_state
+KEEEYEYYYY defendant_company_zip
+KEEEYEYYYY workplace_city
+KEEEYEYYYY workplace_state
+KEEEYEYYYY workplace_zip
+KEEEYEYYYY workplace_address1
+KEEEYEYYYY workplace_city1
+KEEEYEYYYY workplace_state1
+KEEEYEYYYY workplace_zip1
+KEEEYEYYYY boss_name
+KEEEYEYYYY boss_job_title
+KEEEYEYYYY type_of_bussiness
+KEEEYEYYYY type_of_work
+KEEEYEYYYY total_employee
+KEEEYEYYYY Text1 <= part 1 box 1 yes or no
+KEEEYEYYYY Text2
+KEEEYEYYYY individual_claim
+OOOUUUTTT chad_heisler6.pdf
+KEEEYEYYYY client_full_name
+KEEEYEYYYY hire_date
+KEEEYEYYYY quit_date
+KEEEYEYYYY fire_date
+KEEEYEYYYY Other specify
+KEEEYEYYYY quit_last_payment_date
+KEEEYEYYYY fire_last_payment_date
+KEEEYEYYYY undefined_26 <= part 4 box 29a other text
+KEEEYEYYYY mon_in <= box 31 time work started cell 1
+KEEEYEYYYY mon_out <= box 31 time work ended cell 1
+KEEEYEYYYY mon_meal_in <= box 31 1st meal start cell 1
+KEEEYEYYYY mon_meal_out <= box 31 1st meal end cell 1
+KEEEYEYYYY undefined_31 <= box 31 2nd meal start cell 1
+KEEEYEYYYY undefined_32 <= box 31 2nd meal end cell 1
+KEEEYEYYYY undefined_33 <= box 31 ONLY SPLIT 1st shift end cell 1
+KEEEYEYYYY undefined_34 <= box 31 ONLY SPLIT 2nd shift start cell 1
+KEEEYEYYYY tue_in <= box 31 time work started cell 2
+KEEEYEYYYY tue_out <= box 31 time work ended cell 2
+KEEEYEYYYY tue_meal_in <= box 31 1st meal start cell 2
+KEEEYEYYYY þÿtue­_meal_out <= box 31 1st meal end cell 2
+KEEEYEYYYY undefined_39 <= box 31 2nd meal start cell 2
+KEEEYEYYYY undefined_40 <= box 31 2nd meal start cell 2
+KEEEYEYYYY undefined_41 <= box 31 ONLY SPLIT 1st shift end cell 2
+KEEEYEYYYY undefined_42 <= box 31 ONLY SPLIT 2nd shift start cell 2
+KEEEYEYYYY wed_in <= box 31 time work started cell 3
+KEEEYEYYYY wed_out <= box 31 time work ended cell 3
+KEEEYEYYYY wed_meal_in <= box 31 1st meal start cell 3
+KEEEYEYYYY wed_meal_out <= box 31 1st meal end cell 3
+KEEEYEYYYY undefined_47 <= box 31 2nd meal start cell 3
+KEEEYEYYYY undefined_48 <= box 31 2nd meal start cell 3
+KEEEYEYYYY undefined_49 <= box 31 ONLY SPLIT 1st shift end cell 3
+KEEEYEYYYY undefined_50 <= box 31 ONLY SPLIT 2nd shift start cell 3
+KEEEYEYYYY thu_in <= box 31 time work started cell 4
+KEEEYEYYYY thu_out <= box 31 time work ended cell 4
+KEEEYEYYYY thu_meal_in <= box 31 1st meal start cell 4
+KEEEYEYYYY thu_meal_out <= box 31 1st meal end cell 4
+KEEEYEYYYY undefined_55 <= box 31 2nd meal start cell 4
+KEEEYEYYYY undefined_56 <= box 31 2nd meal start cell 4
+KEEEYEYYYY undefined_57 <= box 31 ONLY SPLIT 1st shift end cell 4
+KEEEYEYYYY undefined_58 <= box 31 ONLY SPLIT 2nd shift start cell 4
+KEEEYEYYYY fri_in <= box 31 time work started cell 5
+KEEEYEYYYY fri_out <= box 31 time work ended cell 5
+KEEEYEYYYY fri_meal_in <= box 31 1st meal start cell 5
+KEEEYEYYYY þÿfri­_meal_out <= box 31 1st meal end cell 5
+KEEEYEYYYY undefined_63 <= box 31 2nd meal start cell 5
+KEEEYEYYYY undefined_64 <= box 31 2nd meal start cell 5
+KEEEYEYYYY undefined_65 <= box 31 ONLY SPLIT 1st shift end cell 5
+KEEEYEYYYY undefined_66 <= box 31 ONLY SPLIT 2nd shift start cell 5
+KEEEYEYYYY þÿsat­_in <= box 31 time work started cell 6
+KEEEYEYYYY sat_out <= box 31 time work ended cell 6
+KEEEYEYYYY sat_meal_in <= box 31 1st meal start cell 6
+KEEEYEYYYY sat_meal_out <= box 31 1st meal end cell 6
+KEEEYEYYYY undefined_71 <= box 31 2nd meal start cell 6
+KEEEYEYYYY undefined_72 <= box 31 2nd meal start cell 6
+KEEEYEYYYY undefined_73 <= box 31 ONLY SPLIT 1st shift end cell 6
+KEEEYEYYYY undefined_74 <= box 31 ONLY SPLIT 2nd shift start cell 6
+KEEEYEYYYY sun_in <= box 31 time work started cell 7
+KEEEYEYYYY sun_out <= box 31 time work ended cell 7
+KEEEYEYYYY sun_meal_in <= box 31 1st meal start cell 7
+KEEEYEYYYY sun_meal_out <= box 31 1st meal end cell 7
+KEEEYEYYYY undefined_79 <= box 31 2nd meal start cell 7
+KEEEYEYYYY undefined_80 <= <= box 31 2nd meal end cell 7
+KEEEYEYYYY undefined_81 <= box 31 ONLY SPLIT 1st shift end cell 7
+KEEEYEYYYY undefined_82 <= box 31 ONLY SPLIT 2nd shift start cell 7
+KEEEYEYYYY Text11 <= box 32 i was payed (dollar amount)
+KEEEYEYYYY undefined_83 <= part 6, box 32 (other:specify) top text
+KEEEYEYYYY I was promised <= box 32 dollar amount
+KEEEYEYYYY undefined_84 <= part 6, box 32 (other:specify) bot text
+KEEEYEYYYY Text12
+KEEEYEYYYY hourly_rate <= box 33a yes paid
+KEEEYEYYYY per hour <= box 33a yes promised
+KEEEYEYYYY Text13
+KEEEYEYYYY Text14
+KEEEYEYYYY REGULAR WAGES for nonovertime hours <= checkbox
+KEEEYEYYYY work_start_date1 <= part 7 claim period start date cell 1
+KEEEYEYYYY work_end_date1 <= part 7 claim period end date cell 1
+KEEEYEYYYY regular_wages_earned <= part 7 amount earned/claimed cell 1
+KEEEYEYYYY OVERTIME WAGES including double time <=checkbox
+KEEEYEYYYY work_start_date2 <= part 7 claim period start date cell 2
+KEEEYEYYYY work_end_date2 <= part 7 claim period end date cell 2
+KEEEYEYYYY overtime_earned <= part 7 amount earned/claimed cell 2
+KEEEYEYYYY MEAL PERIOD WAGES <=checkbox
+KEEEYEYYYY work_start_date3 <= part 7 claim period start date cell 3
+KEEEYEYYYY work_end_date3 <= part 7 claim period end date cell 3
+KEEEYEYYYY meal_period_earned <= part 7 amount earned/claimed cell 3
+KEEEYEYYYY REST PERIOD WAGES <=checkbox
+KEEEYEYYYY work_start_date4 <= part 7 claim period start date cell 4
+KEEEYEYYYY work_end_date4 <= part 7 claim period end date cell 4
+KEEEYEYYYY rest_period_earned <= part 7 amount earned/claimed cell 4
+KEEEYEYYYY SPLIT SHIFT PREMIUM <=checkbox
+KEEEYEYYYY CLAIM PERIOD START DATE Month Day YearSPLIT SHIFT PREMIUM <= part 7 claim period start date cell 5
+KEEEYEYYYY CLAIM PERIOD END DATE Month Day YearSPLIT SHIFT PREMIUM <= part 7 claim period end date cell 5
+KEEEYEYYYY fill_38 <= part 7 amount earned/claimed cell 5
+KEEEYEYYYY REPORTING TIME PAY <=checkbox
+KEEEYEYYYY CLAIM PERIOD START DATE Month Day YearREPORTING TIME PAY <= part 7 claim period start date cell 6
+KEEEYEYYYY CLAIM PERIOD END DATE Month Day YearREPORTING TIME PAY <= part 7 claim period end date cell 6
+KEEEYEYYYY fill_39 <= part 7 amount earned/claimed cell 6
+KEEEYEYYYY COMMISSIONS
+KEEEYEYYYY CLAIM PERIOD START DATE Month Day YearCOMMISSIONS <= part 7 claim period start date cell 7
+KEEEYEYYYY CLAIM PERIOD END DATE Month Day YearCOMMISSIONS <= part 7 claim period end date cell 7
+KEEEYEYYYY fill_40 <= part 7 amount earned/claimed cell 7
+KEEEYEYYYY VACATION WAGES  <=checkbox
+KEEEYEYYYY CLAIM PERIOD START DATE Month Day YearVACATION WAGES <= part 7 claim period start date cell 8
+KEEEYEYYYY CLAIM PERIOD END DATE Month Day YearVACATION WAGES <= part 7 claim period end date cell 8
+KEEEYEYYYY fill_41 <= part 7 amount earned/claimed cell 8
+KEEEYEYYYY BUSINESS EXPENSES <=checkbox
+KEEEYEYYYY CLAIM PERIOD START DATE Month Day YearBUSINESS EXPENSES <= part 7 claim period start date cell 9
+KEEEYEYYYY CLAIM PERIOD END DATE Month Day YearBUSINESS EXPENSES <= part 7 claim period end date cell 9
+KEEEYEYYYY fill_42 <= part 7 amount earned/claimed cell 9
+KEEEYEYYYY UNLAWFUL DEDUCTIONS <=checkbox
+KEEEYEYYYY CLAIM PERIOD START DATE Month Day YearUNLAWFUL DEDUCTIONS <= part 7 claim period start date cell 10
+KEEEYEYYYY CLAIM PERIOD END DATE Month Day YearUNLAWFUL DEDUCTIONS <= part 7 claim period end date cell 10
+KEEEYEYYYY fill_43 <= part 7 amount earned/claimed cell 10
+KEEEYEYYYY OTHER Specify <= checkbox
+KEEEYEYYYY CLAIM PERIOD END DATE Month Day YearOTHER Specify <= part 7 claim period end date cell 11
+KEEEYEYYYY work_start_date5 <= part 7 claim period start date cell 11
+KEEEYEYYYY liquidated_damages <= part 7 amount earned/claimed cell 11
+KEEEYEYYYY subtotal <= part 7 amount earned/claimed cell 12
+KEEEYEYYYY total_paid <= part 7 amount earned/claimed cell 13
+KEEEYEYYYY total_owned <= part 7 amount earned/claimed cell 14
+KEEEYEYYYY undefined_89
+KEEEYEYYYY undefined_90
+KEEEYEYYYY current_date <= page 3 date
+KEEEYEYYYY client_full_name1 <= page 3 print name
+KEEEYEYYYY Text103 <= page 3 Signature
+KEEEYEYYYY Text3 <= PART 7 OTHER(SPECIFY)
