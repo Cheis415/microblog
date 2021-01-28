@@ -1,13 +1,13 @@
 import { useState } from "react";
 import { Form, Button } from "react-bootstrap";
 import { useHistory } from "react-router-dom";
-import { useSelector, useDispatch } from "react-redux";
+import {  useDispatch } from "react-redux";
 import { addPost } from "./actionCreators";
 
 function Add() {
   const dispatch = useDispatch();
   const history = useHistory();
-  const state = useSelector(store => store);
+  // const state = useSelector(store => store);
 
   const [formData, setFormData] = useState({
     title: "",
