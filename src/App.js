@@ -6,7 +6,7 @@ import MicroBlog from "./MicroBlog";
 
 function App() {
   return (
-    <Container style={{ margin: "10px", backgroundColor: "#D6A259"}} fluid className="App">
+    <Container style={{ margin: "10px"}} fluid className="App">
       <BrowserRouter>
         <NavBox />
         <MicroBlog />
